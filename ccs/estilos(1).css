@@ -1,0 +1,63 @@
+body{
+    font-family: "Roboto";
+}
+
+.a{
+    width: 80%;
+    height:300px;
+    border: 5px solid gray;
+    justify-content:center;
+    background: rgb(70, 140, 153);
+    text-align: justify;
+    margin: 0 auto;
+    padding: 2;
+    justify-content: space-between;
+}
+
+.seccion_servicios{
+    width: 80%;
+    height:300px;
+    /*border: 5px solid gray;*/
+    justify-content:center;
+    /*background: orangered;*/
+    text-align: justify;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-between;
+
+}    
+.servicio_1{
+    background: #c6faf4;
+    width:200px;
+    height:200px;
+    display:flex;
+    justify-content;center;
+    border-radius: 100%;
+    background: darkblue;
+    background-image: url('chunkun.jpg');
+    
+background-position: center;
+    
+}
+.servicio_2{
+    background: #c6faf4;
+    width:200px;
+    height: 200px;
+    display:flex;
+    justify-content;center;
+    border-radius: 100%;
+    background: darkblue;
+}
+.servicio_3{
+    background: #c6faf4;
+    width:200px;
+    height: 200px;
+    display:flex;
+    justify-content;center;
+    border-radius: 100%;
+    background: darkblue;
+}
+.cinco{
+    background: #26547C;
+    padding: 100px;
+}
